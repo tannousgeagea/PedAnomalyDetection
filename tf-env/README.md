@@ -13,4 +13,4 @@ pip install -r requirements.txt
 ```
 
 # Datasets
-download the datasets from [datasets](https://drive.google.com/drive/folders/1AdUdwIpECF_eMHznWjKtRNjVZ6wRWyDC?usp=share_link) and place them in [datasets]()
+download the datasets from [datasets](https://drive.google.com/drive/folders/1AdUdwIpECF_eMHznWjKtRNjVZ6wRWyDC?usp=share_link) and place them in [datasets](https://github.com/tannousgeagea/PedAnomalyDetection/tree/main/datasets)
