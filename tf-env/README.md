@@ -6,7 +6,9 @@ TensorFlow implementation of state-of-the-art module for anomaly detection in pe
 
 ```bash
 conda create -n ped_anomaly_detection python=3.9
+```
 
+````bash
 pip install -r requirements.txt
 
 ```
