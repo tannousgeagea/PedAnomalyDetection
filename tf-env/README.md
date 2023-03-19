@@ -12,3 +12,5 @@ conda create -n ped_anomaly_detection python=3.9
 pip install -r requirements.txt
 ```
 
+# Datasets
+download the datasets from [datasets](https://drive.google.com/drive/folders/1AdUdwIpECF_eMHznWjKtRNjVZ6wRWyDC?usp=share_link) and place them in [datasets]()
