@@ -1,0 +1,104 @@
+2023-04-01 14:18:22,696 - root - INFO - =========================================================================================
+2023-04-01 14:18:22,696 - root - INFO - Log file is ./log/dataset_AoA_change/drocc.txt.
+2023-04-01 14:18:22,696 - root - INFO - Data path is ../datasets/dataset_AoA_change/.
+2023-04-01 14:18:22,697 - root - INFO - model name is drocc.
+2023-04-01 14:18:22,697 - root - INFO - batch size is 16.
+2023-04-01 14:18:22,697 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 14:18:22,697 - root - INFO - latent space is 16.
+2023-04-01 14:18:22,697 - root - INFO - learning rate is 0.0001.
+2023-04-01 14:18:22,697 - root - INFO - Epoch is 20.
+2023-04-01 14:18:22,697 - root - INFO - nu is 0.02.
+2023-04-01 14:18:22,698 - root - INFO - gamme is 0.1.
+2023-04-01 14:18:22,698 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 14:18:22,698 - root - INFO - seed is 42
+2023-04-01 14:21:57,329 - root - INFO - =========================================================================================
+2023-04-01 14:21:57,329 - root - INFO - Log file is ./log/dataset_AoA_change/drocc.txt.
+2023-04-01 14:21:57,330 - root - INFO - Data path is ../datasets/dataset_AoA_change/.
+2023-04-01 14:21:57,330 - root - INFO - model name is drocc.
+2023-04-01 14:21:57,330 - root - INFO - batch size is 16.
+2023-04-01 14:21:57,330 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 14:21:57,330 - root - INFO - latent space is 16.
+2023-04-01 14:21:57,330 - root - INFO - learning rate is 0.0001.
+2023-04-01 14:21:57,330 - root - INFO - Epoch is 20.
+2023-04-01 14:21:57,330 - root - INFO - nu is 0.02.
+2023-04-01 14:21:57,331 - root - INFO - gamme is 0.1.
+2023-04-01 14:21:57,331 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 14:21:57,331 - root - INFO - seed is 42
+2023-04-01 14:22:42,112 - root - INFO - =========================================================================================
+2023-04-01 14:22:42,112 - root - INFO - Log file is ./log/dataset_AoA_change/drocc.txt.
+2023-04-01 14:22:42,112 - root - INFO - Data path is ../datasets/dataset_AoA_change/.
+2023-04-01 14:22:42,112 - root - INFO - model name is drocc.
+2023-04-01 14:22:42,112 - root - INFO - batch size is 16.
+2023-04-01 14:22:42,118 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 14:22:42,118 - root - INFO - latent space is 16.
+2023-04-01 14:22:42,118 - root - INFO - learning rate is 0.0001.
+2023-04-01 14:22:42,118 - root - INFO - Epoch is 20.
+2023-04-01 14:22:42,118 - root - INFO - nu is 0.02.
+2023-04-01 14:22:42,119 - root - INFO - gamme is 0.1.
+2023-04-01 14:22:42,119 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 14:22:42,119 - root - INFO - seed is 42
+2023-04-01 14:23:31,186 - root - INFO - =========================================================================================
+2023-04-01 14:23:31,186 - root - INFO - Log file is ./log/dataset_AoA_change/drocc.txt.
+2023-04-01 14:23:31,186 - root - INFO - Data path is ../datasets/dataset_AoA_change/.
+2023-04-01 14:23:31,186 - root - INFO - model name is drocc.
+2023-04-01 14:23:31,186 - root - INFO - batch size is 16.
+2023-04-01 14:23:31,193 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 14:23:31,193 - root - INFO - latent space is 16.
+2023-04-01 14:23:31,193 - root - INFO - learning rate is 0.0001.
+2023-04-01 14:23:31,193 - root - INFO - Epoch is 20.
+2023-04-01 14:23:31,193 - root - INFO - nu is 0.02.
+2023-04-01 14:23:31,193 - root - INFO - gamme is 0.1.
+2023-04-01 14:23:31,193 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 14:23:31,194 - root - INFO - seed is 42
+2023-04-01 14:23:52,667 - root - INFO - =========================================================================================
+2023-04-01 14:23:52,667 - root - INFO - Log file is ./log/dataset_AoA_change/drocc.txt.
+2023-04-01 14:23:52,667 - root - INFO - Data path is ../datasets/dataset_AoA_change/.
+2023-04-01 14:23:52,667 - root - INFO - model name is drocc.
+2023-04-01 14:23:52,667 - root - INFO - batch size is 16.
+2023-04-01 14:23:52,667 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 14:23:52,667 - root - INFO - latent space is 16.
+2023-04-01 14:23:52,679 - root - INFO - learning rate is 0.0001.
+2023-04-01 14:23:52,679 - root - INFO - Epoch is 20.
+2023-04-01 14:23:52,679 - root - INFO - nu is 0.02.
+2023-04-01 14:23:52,679 - root - INFO - gamme is 0.1.
+2023-04-01 14:23:52,679 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 14:23:52,679 - root - INFO - seed is 42
+2023-04-01 14:25:31,612 - root - INFO - =========================================================================================
+2023-04-01 14:25:31,612 - root - INFO - Log file is ./log/dataset_AoA_change/drocc.txt.
+2023-04-01 14:25:31,612 - root - INFO - Data path is ../datasets/dataset_AoA_change/.
+2023-04-01 14:25:31,613 - root - INFO - model name is drocc.
+2023-04-01 14:25:31,613 - root - INFO - batch size is 16.
+2023-04-01 14:25:31,613 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 14:25:31,613 - root - INFO - latent space is 16.
+2023-04-01 14:25:31,613 - root - INFO - learning rate is 0.0001.
+2023-04-01 14:25:31,613 - root - INFO - Epoch is 20.
+2023-04-01 14:25:31,613 - root - INFO - nu is 0.02.
+2023-04-01 14:25:31,613 - root - INFO - gamme is 0.1.
+2023-04-01 14:25:31,614 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 14:25:31,614 - root - INFO - seed is 2023
+2023-04-01 14:26:35,164 - root - INFO - =========================================================================================
+2023-04-01 14:26:35,164 - root - INFO - Log file is ./log/dataset_AoA_change/drocc.txt.
+2023-04-01 14:26:35,164 - root - INFO - Data path is ../datasets/dataset_AoA_change/.
+2023-04-01 14:26:35,164 - root - INFO - model name is drocc.
+2023-04-01 14:26:35,164 - root - INFO - batch size is 16.
+2023-04-01 14:26:35,164 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 14:26:35,164 - root - INFO - latent space is 16.
+2023-04-01 14:26:35,168 - root - INFO - learning rate is 0.0001.
+2023-04-01 14:26:35,168 - root - INFO - Epoch is 20.
+2023-04-01 14:26:35,168 - root - INFO - nu is 0.02.
+2023-04-01 14:26:35,168 - root - INFO - gamme is 0.1.
+2023-04-01 14:26:35,168 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 14:26:35,168 - root - INFO - seed is 123
+2023-04-01 14:57:01,252 - root - INFO - =========================================================================================
+2023-04-01 14:57:01,252 - root - INFO - Log file is ./log/dataset_AoA_change/drocc.txt.
+2023-04-01 14:57:01,252 - root - INFO - Data path is ../datasets/dataset_AoA_change/.
+2023-04-01 14:57:01,252 - root - INFO - model name is drocc.
+2023-04-01 14:57:01,252 - root - INFO - batch size is 16.
+2023-04-01 14:57:01,257 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 14:57:01,257 - root - INFO - latent space is 16.
+2023-04-01 14:57:01,257 - root - INFO - learning rate is 0.0001.
+2023-04-01 14:57:01,257 - root - INFO - Epoch is 20.
+2023-04-01 14:57:01,257 - root - INFO - nu is 0.02.
+2023-04-01 14:57:01,257 - root - INFO - gamme is 0.1.
+2023-04-01 14:57:01,257 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 14:57:01,259 - root - INFO - seed is 42

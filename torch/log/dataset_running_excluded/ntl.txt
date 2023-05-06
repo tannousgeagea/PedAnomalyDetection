@@ -1,0 +1,770 @@
+2023-04-01 18:42:50,443 - root - INFO - =========================================================================================
+2023-04-01 18:42:50,443 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 18:42:50,443 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 18:42:50,443 - root - INFO - model name is ntl.
+2023-04-01 18:42:50,443 - root - INFO - batch size is 16.
+2023-04-01 18:42:50,443 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 18:42:50,443 - root - INFO - latent space is 16.
+2023-04-01 18:42:50,443 - root - INFO - learning rate is 0.0001.
+2023-04-01 18:42:50,443 - root - INFO - Epoch is 20.
+2023-04-01 18:42:50,443 - root - INFO - nu is 0.02.
+2023-04-01 18:42:50,443 - root - INFO - gamme is 0.1.
+2023-04-01 18:42:50,443 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 18:42:50,443 - root - INFO - seed is 42
+2023-04-01 18:52:10,608 - root - INFO - test auc at seed 42 is 0.95
+2023-04-01 18:52:10,624 - root - INFO - =========================================================================================
+2023-04-01 18:52:10,624 - root - INFO - =========================================================================================
+2023-04-01 18:52:10,624 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 18:52:10,624 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 18:52:10,624 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 18:52:10,624 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 18:52:10,624 - root - INFO - model name is ntl.
+2023-04-01 18:52:10,624 - root - INFO - model name is ntl.
+2023-04-01 18:52:10,624 - root - INFO - batch size is 16.
+2023-04-01 18:52:10,624 - root - INFO - batch size is 16.
+2023-04-01 18:52:10,624 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 18:52:10,624 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 18:52:10,624 - root - INFO - latent space is 16.
+2023-04-01 18:52:10,624 - root - INFO - latent space is 16.
+2023-04-01 18:52:10,624 - root - INFO - learning rate is 0.0001.
+2023-04-01 18:52:10,624 - root - INFO - learning rate is 0.0001.
+2023-04-01 18:52:10,624 - root - INFO - Epoch is 20.
+2023-04-01 18:52:10,624 - root - INFO - Epoch is 20.
+2023-04-01 18:52:10,624 - root - INFO - nu is 0.02.
+2023-04-01 18:52:10,624 - root - INFO - nu is 0.02.
+2023-04-01 18:52:10,624 - root - INFO - gamme is 0.1.
+2023-04-01 18:52:10,624 - root - INFO - gamme is 0.1.
+2023-04-01 18:52:10,624 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 18:52:10,624 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 18:52:10,624 - root - INFO - seed is 123
+2023-04-01 18:52:10,624 - root - INFO - seed is 123
+2023-04-01 19:01:30,628 - root - INFO - test auc at seed 123 is 0.84
+2023-04-01 19:01:30,628 - root - INFO - test auc at seed 123 is 0.84
+2023-04-01 19:01:30,628 - root - INFO - =========================================================================================
+2023-04-01 19:01:30,628 - root - INFO - =========================================================================================
+2023-04-01 19:01:30,628 - root - INFO - =========================================================================================
+2023-04-01 19:01:30,628 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:01:30,628 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:01:30,628 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:01:30,628 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:01:30,628 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:01:30,628 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:01:30,628 - root - INFO - model name is ntl.
+2023-04-01 19:01:30,628 - root - INFO - model name is ntl.
+2023-04-01 19:01:30,628 - root - INFO - model name is ntl.
+2023-04-01 19:01:30,644 - root - INFO - batch size is 16.
+2023-04-01 19:01:30,644 - root - INFO - batch size is 16.
+2023-04-01 19:01:30,644 - root - INFO - batch size is 16.
+2023-04-01 19:01:30,644 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:01:30,644 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:01:30,644 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:01:30,644 - root - INFO - latent space is 16.
+2023-04-01 19:01:30,644 - root - INFO - latent space is 16.
+2023-04-01 19:01:30,644 - root - INFO - latent space is 16.
+2023-04-01 19:01:30,644 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:01:30,644 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:01:30,644 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:01:30,644 - root - INFO - Epoch is 20.
+2023-04-01 19:01:30,644 - root - INFO - Epoch is 20.
+2023-04-01 19:01:30,644 - root - INFO - Epoch is 20.
+2023-04-01 19:01:30,644 - root - INFO - nu is 0.02.
+2023-04-01 19:01:30,644 - root - INFO - nu is 0.02.
+2023-04-01 19:01:30,644 - root - INFO - nu is 0.02.
+2023-04-01 19:01:30,644 - root - INFO - gamme is 0.1.
+2023-04-01 19:01:30,644 - root - INFO - gamme is 0.1.
+2023-04-01 19:01:30,644 - root - INFO - gamme is 0.1.
+2023-04-01 19:01:30,644 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:01:30,644 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:01:30,644 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:01:30,644 - root - INFO - seed is 122
+2023-04-01 19:01:30,644 - root - INFO - seed is 122
+2023-04-01 19:01:30,644 - root - INFO - seed is 122
+2023-04-01 19:10:50,777 - root - INFO - test auc at seed 122 is 0.82
+2023-04-01 19:10:50,777 - root - INFO - test auc at seed 122 is 0.82
+2023-04-01 19:10:50,777 - root - INFO - test auc at seed 122 is 0.82
+2023-04-01 19:10:50,797 - root - INFO - =========================================================================================
+2023-04-01 19:10:50,797 - root - INFO - =========================================================================================
+2023-04-01 19:10:50,797 - root - INFO - =========================================================================================
+2023-04-01 19:10:50,797 - root - INFO - =========================================================================================
+2023-04-01 19:10:50,799 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:10:50,799 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:10:50,799 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:10:50,799 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:10:50,801 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:10:50,801 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:10:50,801 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:10:50,801 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:10:50,801 - root - INFO - model name is ntl.
+2023-04-01 19:10:50,801 - root - INFO - model name is ntl.
+2023-04-01 19:10:50,801 - root - INFO - model name is ntl.
+2023-04-01 19:10:50,801 - root - INFO - model name is ntl.
+2023-04-01 19:10:50,802 - root - INFO - batch size is 16.
+2023-04-01 19:10:50,802 - root - INFO - batch size is 16.
+2023-04-01 19:10:50,802 - root - INFO - batch size is 16.
+2023-04-01 19:10:50,802 - root - INFO - batch size is 16.
+2023-04-01 19:10:50,802 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:10:50,802 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:10:50,802 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:10:50,802 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:10:50,803 - root - INFO - latent space is 16.
+2023-04-01 19:10:50,803 - root - INFO - latent space is 16.
+2023-04-01 19:10:50,803 - root - INFO - latent space is 16.
+2023-04-01 19:10:50,803 - root - INFO - latent space is 16.
+2023-04-01 19:10:50,803 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:10:50,803 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:10:50,803 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:10:50,803 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:10:50,804 - root - INFO - Epoch is 20.
+2023-04-01 19:10:50,804 - root - INFO - Epoch is 20.
+2023-04-01 19:10:50,804 - root - INFO - Epoch is 20.
+2023-04-01 19:10:50,804 - root - INFO - Epoch is 20.
+2023-04-01 19:10:50,804 - root - INFO - nu is 0.02.
+2023-04-01 19:10:50,804 - root - INFO - nu is 0.02.
+2023-04-01 19:10:50,804 - root - INFO - nu is 0.02.
+2023-04-01 19:10:50,804 - root - INFO - nu is 0.02.
+2023-04-01 19:10:50,805 - root - INFO - gamme is 0.1.
+2023-04-01 19:10:50,805 - root - INFO - gamme is 0.1.
+2023-04-01 19:10:50,805 - root - INFO - gamme is 0.1.
+2023-04-01 19:10:50,805 - root - INFO - gamme is 0.1.
+2023-04-01 19:10:50,806 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:10:50,806 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:10:50,806 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:10:50,806 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:10:50,806 - root - INFO - seed is 2023
+2023-04-01 19:10:50,806 - root - INFO - seed is 2023
+2023-04-01 19:10:50,806 - root - INFO - seed is 2023
+2023-04-01 19:10:50,806 - root - INFO - seed is 2023
+2023-04-01 19:20:10,906 - root - INFO - test auc at seed 2023 is 0.87
+2023-04-01 19:20:10,906 - root - INFO - test auc at seed 2023 is 0.87
+2023-04-01 19:20:10,906 - root - INFO - test auc at seed 2023 is 0.87
+2023-04-01 19:20:10,906 - root - INFO - test auc at seed 2023 is 0.87
+2023-04-01 19:20:10,920 - root - INFO - =========================================================================================
+2023-04-01 19:20:10,920 - root - INFO - =========================================================================================
+2023-04-01 19:20:10,920 - root - INFO - =========================================================================================
+2023-04-01 19:20:10,920 - root - INFO - =========================================================================================
+2023-04-01 19:20:10,920 - root - INFO - =========================================================================================
+2023-04-01 19:20:10,921 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:20:10,921 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:20:10,921 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:20:10,921 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:20:10,921 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:20:10,922 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:20:10,922 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:20:10,922 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:20:10,922 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:20:10,922 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:20:10,923 - root - INFO - model name is ntl.
+2023-04-01 19:20:10,923 - root - INFO - model name is ntl.
+2023-04-01 19:20:10,923 - root - INFO - model name is ntl.
+2023-04-01 19:20:10,923 - root - INFO - model name is ntl.
+2023-04-01 19:20:10,923 - root - INFO - model name is ntl.
+2023-04-01 19:20:10,923 - root - INFO - batch size is 16.
+2023-04-01 19:20:10,923 - root - INFO - batch size is 16.
+2023-04-01 19:20:10,923 - root - INFO - batch size is 16.
+2023-04-01 19:20:10,923 - root - INFO - batch size is 16.
+2023-04-01 19:20:10,923 - root - INFO - batch size is 16.
+2023-04-01 19:20:10,924 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:20:10,924 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:20:10,924 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:20:10,924 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:20:10,924 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:20:10,924 - root - INFO - latent space is 16.
+2023-04-01 19:20:10,924 - root - INFO - latent space is 16.
+2023-04-01 19:20:10,924 - root - INFO - latent space is 16.
+2023-04-01 19:20:10,924 - root - INFO - latent space is 16.
+2023-04-01 19:20:10,924 - root - INFO - latent space is 16.
+2023-04-01 19:20:10,925 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:20:10,925 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:20:10,925 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:20:10,925 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:20:10,925 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:20:10,925 - root - INFO - Epoch is 20.
+2023-04-01 19:20:10,925 - root - INFO - Epoch is 20.
+2023-04-01 19:20:10,925 - root - INFO - Epoch is 20.
+2023-04-01 19:20:10,925 - root - INFO - Epoch is 20.
+2023-04-01 19:20:10,925 - root - INFO - Epoch is 20.
+2023-04-01 19:20:10,926 - root - INFO - nu is 0.02.
+2023-04-01 19:20:10,926 - root - INFO - nu is 0.02.
+2023-04-01 19:20:10,926 - root - INFO - nu is 0.02.
+2023-04-01 19:20:10,926 - root - INFO - nu is 0.02.
+2023-04-01 19:20:10,926 - root - INFO - nu is 0.02.
+2023-04-01 19:20:10,926 - root - INFO - gamme is 0.1.
+2023-04-01 19:20:10,926 - root - INFO - gamme is 0.1.
+2023-04-01 19:20:10,926 - root - INFO - gamme is 0.1.
+2023-04-01 19:20:10,926 - root - INFO - gamme is 0.1.
+2023-04-01 19:20:10,926 - root - INFO - gamme is 0.1.
+2023-04-01 19:20:10,927 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:20:10,927 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:20:10,927 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:20:10,927 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:20:10,927 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:20:10,927 - root - INFO - seed is 145
+2023-04-01 19:20:10,927 - root - INFO - seed is 145
+2023-04-01 19:20:10,927 - root - INFO - seed is 145
+2023-04-01 19:20:10,927 - root - INFO - seed is 145
+2023-04-01 19:20:10,927 - root - INFO - seed is 145
+2023-04-01 19:29:30,857 - root - INFO - test auc at seed 145 is 0.76
+2023-04-01 19:29:30,857 - root - INFO - test auc at seed 145 is 0.76
+2023-04-01 19:29:30,857 - root - INFO - test auc at seed 145 is 0.76
+2023-04-01 19:29:30,857 - root - INFO - test auc at seed 145 is 0.76
+2023-04-01 19:29:30,857 - root - INFO - test auc at seed 145 is 0.76
+2023-04-01 19:29:30,863 - root - INFO - =========================================================================================
+2023-04-01 19:29:30,863 - root - INFO - =========================================================================================
+2023-04-01 19:29:30,863 - root - INFO - =========================================================================================
+2023-04-01 19:29:30,863 - root - INFO - =========================================================================================
+2023-04-01 19:29:30,863 - root - INFO - =========================================================================================
+2023-04-01 19:29:30,863 - root - INFO - =========================================================================================
+2023-04-01 19:29:30,863 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:29:30,863 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:29:30,863 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:29:30,863 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:29:30,863 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:29:30,863 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:29:30,863 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:29:30,863 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:29:30,863 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:29:30,863 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:29:30,863 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:29:30,863 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:29:30,863 - root - INFO - model name is ntl.
+2023-04-01 19:29:30,863 - root - INFO - model name is ntl.
+2023-04-01 19:29:30,863 - root - INFO - model name is ntl.
+2023-04-01 19:29:30,863 - root - INFO - model name is ntl.
+2023-04-01 19:29:30,863 - root - INFO - model name is ntl.
+2023-04-01 19:29:30,863 - root - INFO - model name is ntl.
+2023-04-01 19:29:30,863 - root - INFO - batch size is 16.
+2023-04-01 19:29:30,863 - root - INFO - batch size is 16.
+2023-04-01 19:29:30,863 - root - INFO - batch size is 16.
+2023-04-01 19:29:30,863 - root - INFO - batch size is 16.
+2023-04-01 19:29:30,863 - root - INFO - batch size is 16.
+2023-04-01 19:29:30,863 - root - INFO - batch size is 16.
+2023-04-01 19:29:30,863 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:29:30,863 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:29:30,863 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:29:30,863 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:29:30,863 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:29:30,863 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:29:30,863 - root - INFO - latent space is 16.
+2023-04-01 19:29:30,863 - root - INFO - latent space is 16.
+2023-04-01 19:29:30,863 - root - INFO - latent space is 16.
+2023-04-01 19:29:30,863 - root - INFO - latent space is 16.
+2023-04-01 19:29:30,863 - root - INFO - latent space is 16.
+2023-04-01 19:29:30,863 - root - INFO - latent space is 16.
+2023-04-01 19:29:30,863 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:29:30,863 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:29:30,863 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:29:30,863 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:29:30,863 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:29:30,863 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:29:30,863 - root - INFO - Epoch is 20.
+2023-04-01 19:29:30,863 - root - INFO - Epoch is 20.
+2023-04-01 19:29:30,863 - root - INFO - Epoch is 20.
+2023-04-01 19:29:30,863 - root - INFO - Epoch is 20.
+2023-04-01 19:29:30,863 - root - INFO - Epoch is 20.
+2023-04-01 19:29:30,863 - root - INFO - Epoch is 20.
+2023-04-01 19:29:30,873 - root - INFO - nu is 0.02.
+2023-04-01 19:29:30,873 - root - INFO - nu is 0.02.
+2023-04-01 19:29:30,873 - root - INFO - nu is 0.02.
+2023-04-01 19:29:30,873 - root - INFO - nu is 0.02.
+2023-04-01 19:29:30,873 - root - INFO - nu is 0.02.
+2023-04-01 19:29:30,873 - root - INFO - nu is 0.02.
+2023-04-01 19:29:30,874 - root - INFO - gamme is 0.1.
+2023-04-01 19:29:30,874 - root - INFO - gamme is 0.1.
+2023-04-01 19:29:30,874 - root - INFO - gamme is 0.1.
+2023-04-01 19:29:30,874 - root - INFO - gamme is 0.1.
+2023-04-01 19:29:30,874 - root - INFO - gamme is 0.1.
+2023-04-01 19:29:30,874 - root - INFO - gamme is 0.1.
+2023-04-01 19:29:30,875 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:29:30,875 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:29:30,875 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:29:30,875 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:29:30,875 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:29:30,875 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:29:30,875 - root - INFO - seed is 100
+2023-04-01 19:29:30,875 - root - INFO - seed is 100
+2023-04-01 19:29:30,875 - root - INFO - seed is 100
+2023-04-01 19:29:30,875 - root - INFO - seed is 100
+2023-04-01 19:29:30,875 - root - INFO - seed is 100
+2023-04-01 19:29:30,875 - root - INFO - seed is 100
+2023-04-01 19:38:50,044 - root - INFO - test auc at seed 100 is 0.81
+2023-04-01 19:38:50,044 - root - INFO - test auc at seed 100 is 0.81
+2023-04-01 19:38:50,044 - root - INFO - test auc at seed 100 is 0.81
+2023-04-01 19:38:50,044 - root - INFO - test auc at seed 100 is 0.81
+2023-04-01 19:38:50,044 - root - INFO - test auc at seed 100 is 0.81
+2023-04-01 19:38:50,044 - root - INFO - test auc at seed 100 is 0.81
+2023-04-01 19:38:50,060 - root - INFO - =========================================================================================
+2023-04-01 19:38:50,060 - root - INFO - =========================================================================================
+2023-04-01 19:38:50,060 - root - INFO - =========================================================================================
+2023-04-01 19:38:50,060 - root - INFO - =========================================================================================
+2023-04-01 19:38:50,060 - root - INFO - =========================================================================================
+2023-04-01 19:38:50,060 - root - INFO - =========================================================================================
+2023-04-01 19:38:50,060 - root - INFO - =========================================================================================
+2023-04-01 19:38:50,060 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:38:50,060 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:38:50,060 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:38:50,060 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:38:50,060 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:38:50,060 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:38:50,060 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:38:50,060 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:38:50,060 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:38:50,060 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:38:50,060 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:38:50,060 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:38:50,060 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:38:50,060 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:38:50,060 - root - INFO - model name is ntl.
+2023-04-01 19:38:50,060 - root - INFO - model name is ntl.
+2023-04-01 19:38:50,060 - root - INFO - model name is ntl.
+2023-04-01 19:38:50,060 - root - INFO - model name is ntl.
+2023-04-01 19:38:50,060 - root - INFO - model name is ntl.
+2023-04-01 19:38:50,060 - root - INFO - model name is ntl.
+2023-04-01 19:38:50,060 - root - INFO - model name is ntl.
+2023-04-01 19:38:50,060 - root - INFO - batch size is 16.
+2023-04-01 19:38:50,060 - root - INFO - batch size is 16.
+2023-04-01 19:38:50,060 - root - INFO - batch size is 16.
+2023-04-01 19:38:50,060 - root - INFO - batch size is 16.
+2023-04-01 19:38:50,060 - root - INFO - batch size is 16.
+2023-04-01 19:38:50,060 - root - INFO - batch size is 16.
+2023-04-01 19:38:50,060 - root - INFO - batch size is 16.
+2023-04-01 19:38:50,060 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:38:50,060 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:38:50,060 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:38:50,060 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:38:50,060 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:38:50,060 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:38:50,060 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:38:50,060 - root - INFO - latent space is 16.
+2023-04-01 19:38:50,060 - root - INFO - latent space is 16.
+2023-04-01 19:38:50,060 - root - INFO - latent space is 16.
+2023-04-01 19:38:50,060 - root - INFO - latent space is 16.
+2023-04-01 19:38:50,060 - root - INFO - latent space is 16.
+2023-04-01 19:38:50,060 - root - INFO - latent space is 16.
+2023-04-01 19:38:50,060 - root - INFO - latent space is 16.
+2023-04-01 19:38:50,060 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:38:50,060 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:38:50,060 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:38:50,060 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:38:50,060 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:38:50,060 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:38:50,060 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:38:50,060 - root - INFO - Epoch is 20.
+2023-04-01 19:38:50,060 - root - INFO - Epoch is 20.
+2023-04-01 19:38:50,060 - root - INFO - Epoch is 20.
+2023-04-01 19:38:50,060 - root - INFO - Epoch is 20.
+2023-04-01 19:38:50,060 - root - INFO - Epoch is 20.
+2023-04-01 19:38:50,060 - root - INFO - Epoch is 20.
+2023-04-01 19:38:50,060 - root - INFO - Epoch is 20.
+2023-04-01 19:38:50,070 - root - INFO - nu is 0.02.
+2023-04-01 19:38:50,070 - root - INFO - nu is 0.02.
+2023-04-01 19:38:50,070 - root - INFO - nu is 0.02.
+2023-04-01 19:38:50,070 - root - INFO - nu is 0.02.
+2023-04-01 19:38:50,070 - root - INFO - nu is 0.02.
+2023-04-01 19:38:50,070 - root - INFO - nu is 0.02.
+2023-04-01 19:38:50,070 - root - INFO - nu is 0.02.
+2023-04-01 19:38:50,071 - root - INFO - gamme is 0.1.
+2023-04-01 19:38:50,071 - root - INFO - gamme is 0.1.
+2023-04-01 19:38:50,071 - root - INFO - gamme is 0.1.
+2023-04-01 19:38:50,071 - root - INFO - gamme is 0.1.
+2023-04-01 19:38:50,071 - root - INFO - gamme is 0.1.
+2023-04-01 19:38:50,071 - root - INFO - gamme is 0.1.
+2023-04-01 19:38:50,071 - root - INFO - gamme is 0.1.
+2023-04-01 19:38:50,071 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:38:50,071 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:38:50,071 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:38:50,071 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:38:50,071 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:38:50,071 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:38:50,071 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:38:50,072 - root - INFO - seed is 22
+2023-04-01 19:38:50,072 - root - INFO - seed is 22
+2023-04-01 19:38:50,072 - root - INFO - seed is 22
+2023-04-01 19:38:50,072 - root - INFO - seed is 22
+2023-04-01 19:38:50,072 - root - INFO - seed is 22
+2023-04-01 19:38:50,072 - root - INFO - seed is 22
+2023-04-01 19:38:50,072 - root - INFO - seed is 22
+2023-04-01 19:48:09,881 - root - INFO - test auc at seed 22 is 0.86
+2023-04-01 19:48:09,881 - root - INFO - test auc at seed 22 is 0.86
+2023-04-01 19:48:09,881 - root - INFO - test auc at seed 22 is 0.86
+2023-04-01 19:48:09,881 - root - INFO - test auc at seed 22 is 0.86
+2023-04-01 19:48:09,881 - root - INFO - test auc at seed 22 is 0.86
+2023-04-01 19:48:09,881 - root - INFO - test auc at seed 22 is 0.86
+2023-04-01 19:48:09,881 - root - INFO - test auc at seed 22 is 0.86
+2023-04-01 19:48:09,901 - root - INFO - =========================================================================================
+2023-04-01 19:48:09,901 - root - INFO - =========================================================================================
+2023-04-01 19:48:09,901 - root - INFO - =========================================================================================
+2023-04-01 19:48:09,901 - root - INFO - =========================================================================================
+2023-04-01 19:48:09,901 - root - INFO - =========================================================================================
+2023-04-01 19:48:09,901 - root - INFO - =========================================================================================
+2023-04-01 19:48:09,901 - root - INFO - =========================================================================================
+2023-04-01 19:48:09,901 - root - INFO - =========================================================================================
+2023-04-01 19:48:09,902 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:48:09,902 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:48:09,902 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:48:09,902 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:48:09,902 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:48:09,902 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:48:09,902 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:48:09,902 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:48:09,903 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:48:09,903 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:48:09,903 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:48:09,903 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:48:09,903 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:48:09,903 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:48:09,903 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:48:09,903 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:48:09,903 - root - INFO - model name is ntl.
+2023-04-01 19:48:09,903 - root - INFO - model name is ntl.
+2023-04-01 19:48:09,903 - root - INFO - model name is ntl.
+2023-04-01 19:48:09,903 - root - INFO - model name is ntl.
+2023-04-01 19:48:09,903 - root - INFO - model name is ntl.
+2023-04-01 19:48:09,903 - root - INFO - model name is ntl.
+2023-04-01 19:48:09,903 - root - INFO - model name is ntl.
+2023-04-01 19:48:09,903 - root - INFO - model name is ntl.
+2023-04-01 19:48:09,904 - root - INFO - batch size is 16.
+2023-04-01 19:48:09,904 - root - INFO - batch size is 16.
+2023-04-01 19:48:09,904 - root - INFO - batch size is 16.
+2023-04-01 19:48:09,904 - root - INFO - batch size is 16.
+2023-04-01 19:48:09,904 - root - INFO - batch size is 16.
+2023-04-01 19:48:09,904 - root - INFO - batch size is 16.
+2023-04-01 19:48:09,904 - root - INFO - batch size is 16.
+2023-04-01 19:48:09,904 - root - INFO - batch size is 16.
+2023-04-01 19:48:09,905 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:48:09,905 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:48:09,905 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:48:09,905 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:48:09,905 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:48:09,905 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:48:09,905 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:48:09,905 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:48:09,905 - root - INFO - latent space is 16.
+2023-04-01 19:48:09,905 - root - INFO - latent space is 16.
+2023-04-01 19:48:09,905 - root - INFO - latent space is 16.
+2023-04-01 19:48:09,905 - root - INFO - latent space is 16.
+2023-04-01 19:48:09,905 - root - INFO - latent space is 16.
+2023-04-01 19:48:09,905 - root - INFO - latent space is 16.
+2023-04-01 19:48:09,905 - root - INFO - latent space is 16.
+2023-04-01 19:48:09,905 - root - INFO - latent space is 16.
+2023-04-01 19:48:09,906 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:48:09,906 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:48:09,906 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:48:09,906 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:48:09,906 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:48:09,906 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:48:09,906 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:48:09,906 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:48:09,907 - root - INFO - Epoch is 20.
+2023-04-01 19:48:09,907 - root - INFO - Epoch is 20.
+2023-04-01 19:48:09,907 - root - INFO - Epoch is 20.
+2023-04-01 19:48:09,907 - root - INFO - Epoch is 20.
+2023-04-01 19:48:09,907 - root - INFO - Epoch is 20.
+2023-04-01 19:48:09,907 - root - INFO - Epoch is 20.
+2023-04-01 19:48:09,907 - root - INFO - Epoch is 20.
+2023-04-01 19:48:09,907 - root - INFO - Epoch is 20.
+2023-04-01 19:48:09,907 - root - INFO - nu is 0.02.
+2023-04-01 19:48:09,907 - root - INFO - nu is 0.02.
+2023-04-01 19:48:09,907 - root - INFO - nu is 0.02.
+2023-04-01 19:48:09,907 - root - INFO - nu is 0.02.
+2023-04-01 19:48:09,907 - root - INFO - nu is 0.02.
+2023-04-01 19:48:09,907 - root - INFO - nu is 0.02.
+2023-04-01 19:48:09,907 - root - INFO - nu is 0.02.
+2023-04-01 19:48:09,907 - root - INFO - nu is 0.02.
+2023-04-01 19:48:09,908 - root - INFO - gamme is 0.1.
+2023-04-01 19:48:09,908 - root - INFO - gamme is 0.1.
+2023-04-01 19:48:09,908 - root - INFO - gamme is 0.1.
+2023-04-01 19:48:09,908 - root - INFO - gamme is 0.1.
+2023-04-01 19:48:09,908 - root - INFO - gamme is 0.1.
+2023-04-01 19:48:09,908 - root - INFO - gamme is 0.1.
+2023-04-01 19:48:09,908 - root - INFO - gamme is 0.1.
+2023-04-01 19:48:09,908 - root - INFO - gamme is 0.1.
+2023-04-01 19:48:09,909 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:48:09,909 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:48:09,909 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:48:09,909 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:48:09,909 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:48:09,909 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:48:09,909 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:48:09,909 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:48:09,909 - root - INFO - seed is 147
+2023-04-01 19:48:09,909 - root - INFO - seed is 147
+2023-04-01 19:48:09,909 - root - INFO - seed is 147
+2023-04-01 19:48:09,909 - root - INFO - seed is 147
+2023-04-01 19:48:09,909 - root - INFO - seed is 147
+2023-04-01 19:48:09,909 - root - INFO - seed is 147
+2023-04-01 19:48:09,909 - root - INFO - seed is 147
+2023-04-01 19:48:09,909 - root - INFO - seed is 147
+2023-04-01 19:57:31,026 - root - INFO - test auc at seed 147 is 0.90
+2023-04-01 19:57:31,026 - root - INFO - test auc at seed 147 is 0.90
+2023-04-01 19:57:31,026 - root - INFO - test auc at seed 147 is 0.90
+2023-04-01 19:57:31,026 - root - INFO - test auc at seed 147 is 0.90
+2023-04-01 19:57:31,026 - root - INFO - test auc at seed 147 is 0.90
+2023-04-01 19:57:31,026 - root - INFO - test auc at seed 147 is 0.90
+2023-04-01 19:57:31,026 - root - INFO - test auc at seed 147 is 0.90
+2023-04-01 19:57:31,026 - root - INFO - test auc at seed 147 is 0.90
+2023-04-01 19:57:31,038 - root - INFO - =========================================================================================
+2023-04-01 19:57:31,038 - root - INFO - =========================================================================================
+2023-04-01 19:57:31,038 - root - INFO - =========================================================================================
+2023-04-01 19:57:31,038 - root - INFO - =========================================================================================
+2023-04-01 19:57:31,038 - root - INFO - =========================================================================================
+2023-04-01 19:57:31,038 - root - INFO - =========================================================================================
+2023-04-01 19:57:31,038 - root - INFO - =========================================================================================
+2023-04-01 19:57:31,038 - root - INFO - =========================================================================================
+2023-04-01 19:57:31,038 - root - INFO - =========================================================================================
+2023-04-01 19:57:31,040 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:57:31,040 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:57:31,040 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:57:31,040 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:57:31,040 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:57:31,040 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:57:31,040 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:57:31,040 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:57:31,040 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 19:57:31,041 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:57:31,041 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:57:31,041 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:57:31,041 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:57:31,041 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:57:31,041 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:57:31,041 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:57:31,041 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:57:31,041 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 19:57:31,043 - root - INFO - model name is ntl.
+2023-04-01 19:57:31,043 - root - INFO - model name is ntl.
+2023-04-01 19:57:31,043 - root - INFO - model name is ntl.
+2023-04-01 19:57:31,043 - root - INFO - model name is ntl.
+2023-04-01 19:57:31,043 - root - INFO - model name is ntl.
+2023-04-01 19:57:31,043 - root - INFO - model name is ntl.
+2023-04-01 19:57:31,043 - root - INFO - model name is ntl.
+2023-04-01 19:57:31,043 - root - INFO - model name is ntl.
+2023-04-01 19:57:31,043 - root - INFO - model name is ntl.
+2023-04-01 19:57:31,043 - root - INFO - batch size is 16.
+2023-04-01 19:57:31,043 - root - INFO - batch size is 16.
+2023-04-01 19:57:31,043 - root - INFO - batch size is 16.
+2023-04-01 19:57:31,043 - root - INFO - batch size is 16.
+2023-04-01 19:57:31,043 - root - INFO - batch size is 16.
+2023-04-01 19:57:31,043 - root - INFO - batch size is 16.
+2023-04-01 19:57:31,043 - root - INFO - batch size is 16.
+2023-04-01 19:57:31,043 - root - INFO - batch size is 16.
+2023-04-01 19:57:31,043 - root - INFO - batch size is 16.
+2023-04-01 19:57:31,045 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:57:31,045 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:57:31,045 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:57:31,045 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:57:31,045 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:57:31,045 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:57:31,045 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:57:31,045 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:57:31,045 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 19:57:31,045 - root - INFO - latent space is 16.
+2023-04-01 19:57:31,045 - root - INFO - latent space is 16.
+2023-04-01 19:57:31,045 - root - INFO - latent space is 16.
+2023-04-01 19:57:31,045 - root - INFO - latent space is 16.
+2023-04-01 19:57:31,045 - root - INFO - latent space is 16.
+2023-04-01 19:57:31,045 - root - INFO - latent space is 16.
+2023-04-01 19:57:31,045 - root - INFO - latent space is 16.
+2023-04-01 19:57:31,045 - root - INFO - latent space is 16.
+2023-04-01 19:57:31,045 - root - INFO - latent space is 16.
+2023-04-01 19:57:31,046 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:57:31,046 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:57:31,046 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:57:31,046 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:57:31,046 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:57:31,046 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:57:31,046 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:57:31,046 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:57:31,046 - root - INFO - learning rate is 0.0001.
+2023-04-01 19:57:31,047 - root - INFO - Epoch is 20.
+2023-04-01 19:57:31,047 - root - INFO - Epoch is 20.
+2023-04-01 19:57:31,047 - root - INFO - Epoch is 20.
+2023-04-01 19:57:31,047 - root - INFO - Epoch is 20.
+2023-04-01 19:57:31,047 - root - INFO - Epoch is 20.
+2023-04-01 19:57:31,047 - root - INFO - Epoch is 20.
+2023-04-01 19:57:31,047 - root - INFO - Epoch is 20.
+2023-04-01 19:57:31,047 - root - INFO - Epoch is 20.
+2023-04-01 19:57:31,047 - root - INFO - Epoch is 20.
+2023-04-01 19:57:31,047 - root - INFO - nu is 0.02.
+2023-04-01 19:57:31,047 - root - INFO - nu is 0.02.
+2023-04-01 19:57:31,047 - root - INFO - nu is 0.02.
+2023-04-01 19:57:31,047 - root - INFO - nu is 0.02.
+2023-04-01 19:57:31,047 - root - INFO - nu is 0.02.
+2023-04-01 19:57:31,047 - root - INFO - nu is 0.02.
+2023-04-01 19:57:31,047 - root - INFO - nu is 0.02.
+2023-04-01 19:57:31,047 - root - INFO - nu is 0.02.
+2023-04-01 19:57:31,047 - root - INFO - nu is 0.02.
+2023-04-01 19:57:31,048 - root - INFO - gamme is 0.1.
+2023-04-01 19:57:31,048 - root - INFO - gamme is 0.1.
+2023-04-01 19:57:31,048 - root - INFO - gamme is 0.1.
+2023-04-01 19:57:31,048 - root - INFO - gamme is 0.1.
+2023-04-01 19:57:31,048 - root - INFO - gamme is 0.1.
+2023-04-01 19:57:31,048 - root - INFO - gamme is 0.1.
+2023-04-01 19:57:31,048 - root - INFO - gamme is 0.1.
+2023-04-01 19:57:31,048 - root - INFO - gamme is 0.1.
+2023-04-01 19:57:31,048 - root - INFO - gamme is 0.1.
+2023-04-01 19:57:31,049 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:57:31,049 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:57:31,049 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:57:31,049 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:57:31,049 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:57:31,049 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:57:31,049 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:57:31,049 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:57:31,049 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 19:57:31,049 - root - INFO - seed is 95
+2023-04-01 19:57:31,049 - root - INFO - seed is 95
+2023-04-01 19:57:31,049 - root - INFO - seed is 95
+2023-04-01 19:57:31,049 - root - INFO - seed is 95
+2023-04-01 19:57:31,049 - root - INFO - seed is 95
+2023-04-01 19:57:31,049 - root - INFO - seed is 95
+2023-04-01 19:57:31,049 - root - INFO - seed is 95
+2023-04-01 19:57:31,049 - root - INFO - seed is 95
+2023-04-01 19:57:31,049 - root - INFO - seed is 95
+2023-04-01 20:06:51,451 - root - INFO - test auc at seed 95 is 0.88
+2023-04-01 20:06:51,451 - root - INFO - test auc at seed 95 is 0.88
+2023-04-01 20:06:51,451 - root - INFO - test auc at seed 95 is 0.88
+2023-04-01 20:06:51,451 - root - INFO - test auc at seed 95 is 0.88
+2023-04-01 20:06:51,451 - root - INFO - test auc at seed 95 is 0.88
+2023-04-01 20:06:51,451 - root - INFO - test auc at seed 95 is 0.88
+2023-04-01 20:06:51,451 - root - INFO - test auc at seed 95 is 0.88
+2023-04-01 20:06:51,451 - root - INFO - test auc at seed 95 is 0.88
+2023-04-01 20:06:51,451 - root - INFO - test auc at seed 95 is 0.88
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,458 - root - INFO - =========================================================================================
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,459 - root - INFO - Log file is ./log/dataset_running_excluded/ntl.txt.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,460 - root - INFO - Data path is ../datasets/dataset_running_excluded/.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,461 - root - INFO - model name is ntl.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - batch size is 16.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,462 - root - INFO - model arch is NeuTraLAD/config/config.yml.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - latent space is 16.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,463 - root - INFO - learning rate is 0.0001.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,464 - root - INFO - Epoch is 20.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - nu is 0.02.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,465 - root - INFO - gamme is 0.1.
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,466 - root - INFO - Normal movememnts are ['Walking', 'Running', 'Jogging', 'TalkingOnThePhone']
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:06:51,467 - root - INFO - seed is 32
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
+2023-04-01 20:16:12,035 - root - INFO - test auc at seed 32 is 0.88
